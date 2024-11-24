@@ -1,1 +1,1 @@
-# stardev
+<a href="https://stardev.io/developers/SchoolOfAirdrop"><img alt="Check out SchoolOfAirdrop&apos;s profile on stardev.io" src="https://stardev.io/developers/SchoolOfAirdrop/badge/languages/global.svg" /></a>
